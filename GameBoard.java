@@ -6,7 +6,6 @@ import java.io.*;
  * the next play based on the number of pieces on the game board. It provides
  * all of the methods needed to implement the playing of a max connect four
  * game.
- *
  */
 
 public class GameBoard 
