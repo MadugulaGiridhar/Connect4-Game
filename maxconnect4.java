@@ -3,7 +3,6 @@ import java.util.*;
 
 /**
  * 
- * @author James Spargo
  * This class controls the game play for the Max Connect-Four game. 
  * To compile the program, use the following command from the maxConnectFour directory:
  * javac *.java
