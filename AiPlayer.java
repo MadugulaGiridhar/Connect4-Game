@@ -1,12 +1,5 @@
 import java.util.*;
 
-/**
- * This is the AiPlayer class. It simulates a minimax player for the max connect
- * four game. The constructor essentially does nothing.
- * 
- * @author james spargo
- *
- */
 
 public class AiPlayer {
 	/**
